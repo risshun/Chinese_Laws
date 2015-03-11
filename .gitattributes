@@ -5,10 +5,10 @@
 *.cs     diff=csharp
 
 # Standard to msysgit
-*.doc	 diff=word
-*.DOC	 diff=word
-*.docx diff=word
-*.DOCX diff=word
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
 *.dot  diff=astextplain
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
